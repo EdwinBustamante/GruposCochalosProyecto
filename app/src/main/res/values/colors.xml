@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#B0BEC5</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="fondo_contactar">#ECEFF1</color>
+    <color name="light_blue_600">#039BE5</color>
+    <color name="black">#020202</color>
+
+    <!-- AQUI ESTAN LOS COLORES DE  FULL PHOTO para poder descargar-->
+
+    <color name="red_A400">#FF1744</color>
+    <color name="red_A700">#D50000</color>
+    <color name="red_A100">#FF8A80</color>
+    <color name="amber_800">#FF8F00</color>
+    <color name="amber_A100">#FFE57F</color>
+
+    <color name="light_blue_700">#0288D1</color>
+    <color name="light_blue_A200">#40C4FF</color>
+
+</resources>

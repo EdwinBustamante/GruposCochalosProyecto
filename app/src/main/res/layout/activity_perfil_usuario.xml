@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.edwinbustamante.gruposcochalos.PerfilUsuario">
+
+
+
+        <TextView
+            android:id="@+id/nombre_grupo_perfil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="nombre" />
+
+        <ImageView
+            android:id="@+id/perfil_grupo_perfil"
+            android:layout_width="258dp"
+            android:src="@drawable/mr"
+            android:layout_height="260dp" />
+
+        <Button
+            android:id="@+id/desloguear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DESLOGUEAR" />
+    </LinearLayout>
+
